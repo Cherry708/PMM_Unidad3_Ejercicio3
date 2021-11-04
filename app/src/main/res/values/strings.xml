@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="nombre">Name</string>
+    <string name="apellidos">Last name</string>
+    <string name="direccion">Address</string>
+    <string name="localidad">City</string>
+    <string name="provincia">State</string>
+    <string name="pais">Country</string>
+</resources>
